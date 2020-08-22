@@ -1,0 +1,96 @@
+E:\EasyRustServer\EasyRustServer\bin\Debug\EasyRustServer.exe.config
+E:\EasyRustServer\EasyRustServer\bin\Debug\EasyRustServer.exe
+E:\EasyRustServer\EasyRustServer\bin\Debug\EasyRustServer.pdb
+E:\EasyRustServer\EasyRustServer\bin\Debug\DeviceId.dll
+E:\EasyRustServer\EasyRustServer\bin\Debug\Newtonsoft.Json.dll
+E:\EasyRustServer\EasyRustServer\bin\Debug\DeviceId.xml
+E:\EasyRustServer\EasyRustServer\bin\Debug\Newtonsoft.Json.xml
+E:\EasyRustServer\EasyRustServer\obj\Debug\EasyRustServer.csprojAssemblyReference.cache
+E:\EasyRustServer\EasyRustServer\obj\Debug\EasyRustServer.csproj.CoreCompileInputs.cache
+E:\EasyRustServer\EasyRustServer\obj\Debug\EasyRustServer.csproj.CopyComplete
+E:\EasyRustServer\EasyRustServer\bin\EasyRustServer\EasyRustServer.exe.config
+E:\EasyRustServer\EasyRustServer\bin\EasyRustServer\EasyRustServer.exe
+E:\EasyRustServer\EasyRustServer\bin\EasyRustServer\EasyRustServer.pdb
+E:\EasyRustServer\EasyRustServer\bin\EasyRustServer\DeviceId.dll
+E:\EasyRustServer\EasyRustServer\bin\EasyRustServer\Newtonsoft.Json.dll
+E:\EasyRustServer\EasyRustServer\bin\EasyRustServer\DeviceId.xml
+E:\EasyRustServer\EasyRustServer\bin\EasyRustServer\Newtonsoft.Json.xml
+E:\EasyRustServer\EasyRustServer\bin\EasyRustUpdater\EasyRustUpdater.exe.config
+E:\EasyRustServer\EasyRustServer\bin\EasyRustUpdater\EasyRustUpdater.exe
+E:\EasyRustServer\EasyRustServer\bin\EasyRustUpdater\EasyRustUpdater.pdb
+E:\EasyRustServer\EasyRustServer\bin\EasyRustUpdater\DeviceId.dll
+E:\EasyRustServer\EasyRustServer\bin\EasyRustUpdater\Newtonsoft.Json.dll
+E:\EasyRustServer\EasyRustServer\bin\EasyRustUpdater\DeviceId.xml
+E:\EasyRustServer\EasyRustServer\bin\EasyRustUpdater\Newtonsoft.Json.xml
+E:\EasyRustServer\EasyRustServer\obj\Debug\EasyRustUpdater.exe
+E:\EasyRustServer\EasyRustServer\obj\Debug\EasyRustUpdater.pdb
+C:\Users\Randym\Desktop\ROK\bin\EasyRustUpdater\EasyRustUpdater.exe.config
+C:\Users\Randym\Desktop\ROK\bin\EasyRustUpdater\EasyRustUpdater.exe
+C:\Users\Randym\Desktop\ROK\bin\EasyRustUpdater\EasyRustUpdater.pdb
+C:\Users\Randym\Desktop\ROK\bin\EasyRustUpdater\DeviceId.dll
+C:\Users\Randym\Desktop\ROK\bin\EasyRustUpdater\Newtonsoft.Json.dll
+C:\Users\Randym\Desktop\ROK\bin\EasyRustUpdater\System.IO.Compression.ZipFile.dll
+C:\Users\Randym\Desktop\ROK\bin\EasyRustUpdater\DeviceId.xml
+C:\Users\Randym\Desktop\ROK\bin\EasyRustUpdater\Newtonsoft.Json.xml
+C:\Users\Randym\Desktop\ROK\bin\EasyROKUpdater\EasyROKUpdater.exe.config
+C:\Users\Randym\Desktop\ROK\bin\EasyROKUpdater\EasyROKUpdater.exe
+C:\Users\Randym\Desktop\ROK\bin\EasyROKUpdater\EasyROKUpdater.pdb
+C:\Users\Randym\Desktop\ROK\bin\EasyROKUpdater\DeviceId.dll
+C:\Users\Randym\Desktop\ROK\bin\EasyROKUpdater\Newtonsoft.Json.dll
+C:\Users\Randym\Desktop\ROK\bin\EasyROKUpdater\DeviceId.xml
+C:\Users\Randym\Desktop\ROK\bin\EasyROKUpdater\Newtonsoft.Json.xml
+C:\Users\Randym\Desktop\ROK\obj\Debug\EasyRustServer.csprojAssemblyReference.cache
+C:\Users\Randym\Desktop\ROK\obj\Debug\EasyRustServer.csproj.CoreCompileInputs.cache
+C:\Users\Randym\Desktop\ROK\obj\Debug\EasyRustServer.csproj.CopyComplete
+C:\Users\Randym\Desktop\ROK\obj\Debug\EasyROKUpdater.exe
+C:\Users\Randym\Desktop\ROK\obj\Debug\EasyROKUpdater.pdb
+C:\Users\Randym\Desktop\Hurtworld\bin\EasyROKUpdater\EasyROKUpdater.exe.config
+C:\Users\Randym\Desktop\Hurtworld\bin\EasyROKUpdater\EasyROKUpdater.exe
+C:\Users\Randym\Desktop\Hurtworld\bin\EasyROKUpdater\EasyROKUpdater.pdb
+C:\Users\Randym\Desktop\Hurtworld\bin\EasyROKUpdater\DeviceId.dll
+C:\Users\Randym\Desktop\Hurtworld\bin\EasyROKUpdater\Newtonsoft.Json.dll
+C:\Users\Randym\Desktop\Hurtworld\bin\EasyROKUpdater\DeviceId.xml
+C:\Users\Randym\Desktop\Hurtworld\bin\EasyROKUpdater\Newtonsoft.Json.xml
+C:\Users\Randym\Desktop\Hurtworld\obj\Debug\EasyRustServer.csprojAssemblyReference.cache
+C:\Users\Randym\Desktop\Hurtworld\obj\Debug\EasyRustServer.csproj.CoreCompileInputs.cache
+C:\Users\Randym\Desktop\Hurtworld\obj\Debug\EasyRustServer.csproj.CopyComplete
+C:\Users\Randym\Desktop\Hurtworld\bin\EasyHurtWorldUpdater\EasyHurtWorldUpdater.exe.config
+C:\Users\Randym\Desktop\Hurtworld\bin\EasyHurtWorldUpdater\EasyHurtWorldUpdater.exe
+C:\Users\Randym\Desktop\Hurtworld\bin\EasyHurtWorldUpdater\EasyHurtWorldUpdater.pdb
+C:\Users\Randym\Desktop\Hurtworld\bin\EasyHurtWorldUpdater\DeviceId.dll
+C:\Users\Randym\Desktop\Hurtworld\bin\EasyHurtWorldUpdater\Newtonsoft.Json.dll
+C:\Users\Randym\Desktop\Hurtworld\bin\EasyHurtWorldUpdater\DeviceId.xml
+C:\Users\Randym\Desktop\Hurtworld\bin\EasyHurtWorldUpdater\Newtonsoft.Json.xml
+C:\Users\Randym\Desktop\Hurtworld\obj\Debug\EasyHurtWorldUpdater.exe
+C:\Users\Randym\Desktop\Hurtworld\obj\Debug\EasyHurtWorldUpdater.pdb
+C:\Users\Randym\Desktop\Hurtworld - Copy\bin\EasyHurtWorldUpdater\EasyHurtWorldUpdater.exe.config
+C:\Users\Randym\Desktop\Hurtworld - Copy\bin\EasyHurtWorldUpdater\EasyHurtWorldUpdater.exe
+C:\Users\Randym\Desktop\Hurtworld - Copy\bin\EasyHurtWorldUpdater\EasyHurtWorldUpdater.pdb
+C:\Users\Randym\Desktop\Hurtworld - Copy\bin\EasyHurtWorldUpdater\DeviceId.dll
+C:\Users\Randym\Desktop\Hurtworld - Copy\bin\EasyHurtWorldUpdater\Newtonsoft.Json.dll
+C:\Users\Randym\Desktop\Hurtworld - Copy\bin\EasyHurtWorldUpdater\System.IO.Compression.ZipFile.dll
+C:\Users\Randym\Desktop\Hurtworld - Copy\bin\EasyHurtWorldUpdater\DeviceId.xml
+C:\Users\Randym\Desktop\Hurtworld - Copy\bin\EasyHurtWorldUpdater\Newtonsoft.Json.xml
+C:\Users\Randym\Desktop\Hurtworld - Copy\obj\Debug\EasyRustServer.csprojResolveAssemblyReference.cache
+C:\Users\Randym\Desktop\Hurtworld - Copy\obj\Debug\EasyHurtWorldUpdater.exe
+C:\Users\Randym\Desktop\Hurtworld - Copy\obj\Debug\EasyHurtWorldUpdater.pdb
+C:\Users\Randym\Desktop\rustv2\bin\rust\EasyRustUpdater.exe.config
+C:\Users\Randym\Desktop\rustv2\bin\rust\EasyRustUpdater.exe
+C:\Users\Randym\Desktop\rustv2\bin\rust\EasyRustUpdater.pdb
+C:\Users\Randym\Desktop\rustv2\bin\rust\DeviceId.dll
+C:\Users\Randym\Desktop\rustv2\bin\rust\Newtonsoft.Json.dll
+C:\Users\Randym\Desktop\rustv2\bin\rust\DeviceId.xml
+C:\Users\Randym\Desktop\rustv2\bin\rust\Newtonsoft.Json.xml
+C:\Users\Randym\Desktop\rustv2\obj\Debug\EasyRustServer.csprojAssemblyReference.cache
+C:\Users\Randym\Desktop\rustv2\obj\Debug\EasyRustServer.csproj.CoreCompileInputs.cache
+C:\Users\Randym\Desktop\rustv2\obj\Debug\EasyRustServer.csproj.CopyComplete
+C:\Users\Randym\Desktop\rustv2\obj\Debug\EasyRustUpdater.exe
+C:\Users\Randym\Desktop\rustv2\obj\Debug\EasyRustUpdater.pdb
+C:\Users\Randym\Desktop\working code\Build\Rust\EasyRustUpdater.exe.config
+C:\Users\Randym\Desktop\working code\Build\Rust\EasyRustUpdater.exe
+C:\Users\Randym\Desktop\working code\Build\Rust\EasyRustUpdater.pdb
+C:\Users\Randym\Desktop\working code\rustv2\obj\Debug\EasyRustServer.csprojAssemblyReference.cache
+C:\Users\Randym\Desktop\working code\rustv2\obj\Debug\EasyRustServer.csproj.CoreCompileInputs.cache
+C:\Users\Randym\Desktop\working code\rustv2\obj\Debug\EasyRustServer.csproj.CopyComplete
+C:\Users\Randym\Desktop\working code\rustv2\obj\Debug\EasyRustUpdater.exe
+C:\Users\Randym\Desktop\working code\rustv2\obj\Debug\EasyRustUpdater.pdb
